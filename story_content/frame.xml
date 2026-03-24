@@ -11,9 +11,9 @@
     <optiongroups>
       <optiongroup name="sidebaroptions">
         <options>
-          <option name="title_enabled" value="false">
+          <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="case study slide2" />
+              <option name="title_text" value="Case Study Interview Highlights" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -85,6 +85,14 @@
           <option name="next" value="icontext" />
           <option name="previous" value="icontext" />
           <option name="submit" value="icontext" />
+        </options>
+      </optiongroup>
+      <optiongroup name="courseOptions">
+        <options>
+          <option name="thumbnailEnabled" value="true" />
+          <option name="thumbnailAltText" value="Slide: Intro Slide" />
+          <option name="thumbnailDisplayName" value="Slide: Intro Slide" />
+          <option name="thumbnailUrl" value="story_content/6ZFXUyyQGi9.png" />
         </options>
       </optiongroup>
       <optiongroup name="ccOptions">
